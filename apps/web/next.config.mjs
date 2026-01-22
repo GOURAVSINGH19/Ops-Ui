@@ -3,9 +3,9 @@ import { createMDX } from "fumadocs-mdx/next";
 const nextConfig = {
   transpilePackages: ["@workspace/ui"],
   pageExtensions: ["ts", "tsx", "mdx"],
-  experimental: {
-    cacheComponents: true,
-  },
+  // experimental: {
+  //   cacheComponents: true,
+  // },
 };
 
 const withMDX = createMDX({

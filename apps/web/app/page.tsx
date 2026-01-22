@@ -3,9 +3,9 @@ import Home from "../components/Home";
 import Footer from "@/components/Footer";
 import LatestComponent from "@/components/Newcomponent";
 import { Techsection } from "@/components/Tech";
-import { BounceTextReveal } from "@/components/docs/BounceTextReveal";
 
 const ComponentLibraryDemo = () => {
+  
   return (
     <main className="w-screen h-full bg_svg">
       <Svg />
