@@ -1,0 +1,8 @@
+{
+    "name": "template",
+    "type": "components:ui",
+    "title": "Template Component",
+    "description": "A template component to demonstrate the structure.",
+    "dependencies": [],
+    "registryDependencies": []
+}

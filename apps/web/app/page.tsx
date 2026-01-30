@@ -1,8 +1,8 @@
 import Svg from "@/components/svg";
-import Home from "../components/Home";
-import Footer from "@/components/Footer";
-import LatestComponent from "@/components/Newcomponent";
-import { Techsection } from "@/components/Tech";
+import Home from "../components/home/Home";
+import Footer from "@/components/footer/Footer";
+import LatestComponent from "@/components/newcomponents/Newcomponent";
+import { Techsection } from "@/components/footer/Tech";
 
 const ComponentLibraryDemo = () => {
   
