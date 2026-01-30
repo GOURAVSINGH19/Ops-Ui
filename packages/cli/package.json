@@ -1,5 +1,5 @@
 {
-  "name": "opscli",
+  "name": "@demouser22/opscli",
   "version": "0.0.1",
   "bin": {
     "opscli": "./dist/index.js"
